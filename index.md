@@ -4,5 +4,5 @@ This is my personal website, and because of this, I will use this website to adv
 [Link To Blog](https://cyberhawksite.wordpress.com)
 
 
-  <center>[A picture of me]("img/img.jpg")</center>
+  <center>![A picture of me]("img/img.jpg")</center>
 
